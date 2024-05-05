@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
-import './App.css';
 
+import Body from "./components/Body";
 function App() {
   return (
-    <div className ="text-sm"><h1>HEllo</h1></div>
+    <Body/> 
   );
 }
 
